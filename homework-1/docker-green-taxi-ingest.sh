@@ -13,3 +13,5 @@ green_taxi_ingest:v001 \
 --pg-db=ny_taxi \
 --trip-table-name=green_trips_data_2025_11 \
 --zone-table-name=zones
+
+echo "Successfully done!"
